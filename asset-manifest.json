@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WhatsApp-MERN/static/css/main.ffb15538.chunk.css",
-    "main.js": "/WhatsApp-MERN/static/js/main.397f6a5c.chunk.js",
-    "main.js.map": "/WhatsApp-MERN/static/js/main.397f6a5c.chunk.js.map",
+    "main.js": "/WhatsApp-MERN/static/js/main.dbc6367c.chunk.js",
+    "main.js.map": "/WhatsApp-MERN/static/js/main.dbc6367c.chunk.js.map",
     "runtime-main.js": "/WhatsApp-MERN/static/js/runtime-main.32b0418e.js",
     "runtime-main.js.map": "/WhatsApp-MERN/static/js/runtime-main.32b0418e.js.map",
     "static/js/2.de61c8c6.chunk.js": "/WhatsApp-MERN/static/js/2.de61c8c6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.32b0418e.js",
     "static/js/2.de61c8c6.chunk.js",
     "static/css/main.ffb15538.chunk.css",
-    "static/js/main.397f6a5c.chunk.js"
+    "static/js/main.dbc6367c.chunk.js"
   ]
 }
